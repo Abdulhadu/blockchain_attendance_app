@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`  For Running the development server of Front End at http://localhost:3000/
-### 'npm run start-api' For Running the Development Server of Backend at http://127.0.0.1:5000/
+### `npm run start-api` For Running the Development Server of Backend at http://127.0.0.1:5000/
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
